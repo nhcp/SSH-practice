@@ -9,6 +9,6 @@ Understand how to verify network connectivity and identify system IP addresses a
 * `ss -tulpn`: View active network connections and listening ports.
 
 ## 📝 Laboratory Results
-- **My Local IP:** [Type your IP here]
+- **My Local IP:** 172.20.200.104
 - **Connectivity Test:** Successfully pinged 8.8.8.8 with 0% packet loss.
 - **Service Check:** Confirmed Port 22 is open for SSH.
